@@ -1,1 +1,2 @@
-# qtm-350-final-project
+# Mosaic Influence on Facial Recognition ML
+
