@@ -1,6 +1,8 @@
 # Amazon Rekognition Face Detection with Age Difference between Photos  
 
-  In the United States, the Federal Bureau of Investigation reports an estimate of 460,000 children go missing every year. Anywhere from 89 to 92% percent of all missing persons are found either dead or alive. This still leaves many people as still missing, of which several are children uner the age of 18. Someone's missing child could be anywhere out in public, but nobody could know. 
+  In the United States, the Federal Bureau of Investigation reports an estimate of 460,000 children go missing every year. Anywhere from 89 to 92% percent of all missing persons are found either dead or alive. This still leaves many people as still missing, of which several are children uner the age of 18. Someone's missing child could be anywhere out in public, but nobody could know.  
+  
+  The website for the project blog is listed at the bottom of the page. This blog reports everything performed in the project and all the findings.
   
 __
  
@@ -29,5 +31,6 @@ __
   All of the data that was produced and collected from running the tests can be found in the `data` directory. All the images that the Amazon Rekognition facial recognition tests were run on can be found in the `images` directory of the repo. In this directory, there are two separate directories: `age-images` and `year-images`. The `age-images` directory contains images for two different people at various ages. The `year-images` directory contains images for three different people for each year from 1991-2013. 
 
 ### Blog  
-  The files associated with the public blog website are contained in the `blog` directory. This contains the Jupyter notebook file used for the blog as well as a separate `images` directory which contains all images that were used in the blog. The website for the blog is listed below.  
+  The files associated with the public blog website are contained in the `blog` directory. This contains the Jupyter notebook file used for the blog labeled `Blog.ipynb` as well as a separate `images` directory which contains all images that were used in the blog. The blog contains everything about the project that was produced, such as introduction, motivation, code, findings, project architecture, and references. The website for the blog is listed below.  
+  
 https://final-project-blog.s3.amazonaws.com/qtm-350-final-project-blog.html
