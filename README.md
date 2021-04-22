@@ -24,6 +24,9 @@ __
   
 ### Project Architecture
   In the main directory of the repo, a diagram of the project architecture can be viewed. This file is listed under `project-architecture.png`.
+  
+### Data
+  All of the data that was produced and collected from running the tests can be found in the `data` directory. 
 
 ### Blog  
   The files associated with the public blog website are contained in the `blog` directory. This contains the Jupyter notebook file used for the blog as well as a separate `images` directory which contains all images that were used in the blog. The website for the blog is listed below.  
