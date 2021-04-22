@@ -21,5 +21,6 @@ __
   
 __
 
-### Blog website link  
+### Blog  
+  The files associated with the public blog website are contained in the `blog` directory. This contains the Jupyter notebook file used for the blog as well as a separate `images` directory which contains all images that were used in the blog. The website for the blog is listed below.  
 https://final-project-blog.s3.amazonaws.com/qtm-350-final-project-blog.html
