@@ -17,9 +17,10 @@ __
 __
 
 ## Using and Navigating this GitHub Repository
-  The `Proposal.ipynb` file is a Jupyter notebook used for the project proposal. This file contains all the Python code that was used to run the Amazon Rekognition machine learning service on Amazon Web Services. The first section of this file sets up an S3 bucket and gets Rekognition ready to be used for facial recognition. The second section labeled *Test Set1* is using Rekognition for the images in the `year-images` directory, and the third section labeled *Test Set2* is using Reckognition for the images in the `age-images` directory. The two mentioned images directories can both be found in the `images` directory in the main directory of the repository. The `year-images` directory contains images for three different people for each year from 1991 to 2013. The `age-images` directory contains images for two different people at various ages. The `Project Architecture.png` file is an image that shows an architecture diagram for the project. This architecture is explained in the blog which has a link at the bottom of this file.
+  The `Proposal.ipynb` file is a Jupyter notebook used for the project proposal. This file contains all the Python code that was used to run the Amazon Rekognition machine learning service on Amazon Web Services. The first section of this file sets up an S3 bucket and gets Rekognition ready to be used for facial recognition. The second section labeled *Test Set1* is using Rekognition for the images in the `year-images` directory, and the third section labeled *Test Set2* is using Reckognition for the images in the `age-images` directory. The two mentioned images directories can both be found in the `images` directory in the main directory of the repository. The `year-images` directory contains images for three different people for each year from 1991 to 2013. The `age-images` directory contains images for two different people at various ages. 
   
-__
+### Project Architecture
+  In the main directory of the repo, a diagram of the project architecture can be viewed. This file is listed under `project-architecture.png`.
 
 ### Blog  
   The files associated with the public blog website are contained in the `blog` directory. This contains the Jupyter notebook file used for the blog as well as a separate `images` directory which contains all images that were used in the blog. The website for the blog is listed below.  
