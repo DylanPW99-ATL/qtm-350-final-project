@@ -17,8 +17,7 @@ __
 __
 
 ## Using and Navigating this GitHub Repository
-  The `Proposal.ipynb` file is a Jupyter notebook for the project proposal. 
-
+  The `Proposal.ipynb` file is a Jupyter notebook used for the project proposal. This file contains all the Python code that was used to run the Amazon Rekognition machine learning service on Amazon Web Services. The first section of this file sets up an S3 bucket and gets Rekognition ready to be used for facial recognition. The second section labeled **Test Set1** is using Rekognition for the images in the `year-images` directory, and the third section labeled **Test Set2** is using Reckognition for the images in the `age-images` directory. The two mentioned images directories can both be found in the `images` directory in the main directory of the repository. The `year-images` directory contains images for three different people for each year from 1991 to 2013. The `age-images` directory contains images for two different people at various ages.
   
 __
 
