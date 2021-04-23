@@ -1,6 +1,6 @@
 # Amazon Rekognition Face Detection with Age Difference between Photos  
 
-  In the United States, the Federal Bureau of Investigation reports an estimate of 460,000 children go missing every year. Anywhere from 89 to 92% percent of all missing persons are found either dead or alive. This still leaves many people as still missing, of which several are children uner the age of 18. Someone's missing child could be anywhere out in public, but nobody could know.  
+  Kidnappings and missing children are serious problems within our society. According to statistics from the Federal Bureau of Investigation (FBI), in 2020, 365,348 missing children cases were registered, and in 2019, there were 421,394 ("Key Facts", 2021). Anywhere from 89 to 92% percent of all missing persons are found either dead or alive. This still leaves many people as still missing, of which several are children uner the age of 18. Someone's missing child could be anywhere out in public, but nobody could know. Services such as the child abduction alert system and missing people website may help parents find their missing children, yet there is the possibility that some of the kids cannot be found. However, after many years, it might be very hard to recognize a person. To find if there is any possibility to alleviate this worldwide problem with the aid of AWS Rekognition, we designed our project, which explores to what extent that this tool can figure out the similarities between the images of the same person as a child and after turning into an adult.  
   
   The website for the project blog is listed at the bottom of the page. This blog reports everything performed in the project and all the findings.
   
@@ -8,6 +8,7 @@ __
  
 ## Project Introduction
   This project will look to see if the Amazon Rekognition machine learning service is effective in matching pictures of children to pictures of their older selves. Can Amazon Rekognition accurately match childhood photos to pictures of the child grown up? How accurate is Amazon Rekognition in matching faces under the obstruction of time and changing appearance?
+  This project also further explores the age detect function within Amazon Rekognition. This will test for age in images to help explain any findings in the project.
 
 __
 
@@ -16,6 +17,11 @@ __
   * Amazon Rekognition has a lower accuracy in face matching under the disruption of age
   * As the age difference between photos increases, the face matching accuracy decreases. 
 
+__
+
+## Reproducing this Project
+  The goal of this GitHub repository is to supply all code, documentation, and data that was used in the project so that someone may reproduce the project. If someone wanted to reproduce this project, start by downloading this repository to get all the files that were used in this project. 
+  
 __
 
 ## Using and Navigating this GitHub Repository
