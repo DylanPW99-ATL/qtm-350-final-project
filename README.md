@@ -39,4 +39,4 @@ __
 ### Blog  
   The files associated with the public blog website are contained in the `blog` directory. This contains the Jupyter notebook file used for the blog labeled `Blog.ipynb` as well as a separate `images` directory which contains all images that were used in the blog. The blog contains everything about the project that was produced, such as introduction, motivation, code, findings, project architecture, and references. The website for the blog is listed below.  
   
-https://final-project-blog.s3.amazonaws.com/qtm-350-final-project-blog.html
+https://final-project-blog.s3.amazonaws.com/QTM350_BLOG02.html
