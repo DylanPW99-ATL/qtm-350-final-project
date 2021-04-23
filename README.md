@@ -20,7 +20,7 @@ __
 __
 
 ## Reproducing this Project
-  The goal of this GitHub repository is to supply all code, documentation, and data that was used in the project so that someone may reproduce the project. If someone wanted to reproduce this project, start by downloading this repository to get all the files that were used in this project. 
+  The goal of this GitHub repository is to supply all code, documentation, and data that was used in the project so that someone may reproduce the project. If someone wanted to reproduce this project, start by downloading this repository to get all the files that were used in this project. The `images` directory contains all the images used for facial recognition testing. Using AWS, one can create a new Amazon Sagemaker notebook instance. Inside this new notebook, one can upload the file in this repository called `FinalProject-Proposal.ipynb` as well as the images from the `images` directory. This Jupyter notebook file contains the code to use the Amazon Rekognition machine learning service and will also use the AWS S3 service. The code runs the facial recognition and age detection tests on the two sets of images in the `images` directory. The output of this code produces the data that is supplied in the `data` directory of this repository. If you would like to know more about using and navigating this GitHub repository, information is given below.
   
 __
 
