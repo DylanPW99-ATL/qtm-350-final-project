@@ -33,10 +33,10 @@ __
 ### Project Architecture
   In the main directory of the repo, a diagram of the project architecture can be viewed. This file is listed under `project-architecture.png`.
   
-### Data
-  All of the data that was produced and collected from running the tests can be found in the `data` directory. All the images that the Amazon Rekognition facial recognition tests were run on can be found in the `images` directory of the repo. In this directory, there are two separate directories: `age-images` and `year-images`. The `age-images` directory contains images for two different people at various ages. The `year-images` directory contains images for three different people for each year from 1991-2013. 
+### Result and Images
+  All of the data that was produced and collected from running the tests can be found in the `result` directory. In this directory, there are two csv files, which are the raw data files, and one xlsx file which contains the processed data. All the images that the Amazon Rekognition facial recognition tests were run on can be found in the `images` directory of the repo. In this directory, there are two separate subdirectories: `test set 1 (year image)` and `test set 2 (age image)`. The `test set 2 (age image)` directory contains images for two different people at various ages. The `test set 1 (year image)` directory contains images for three different people for each year from 1991-2013. 
 
 ### Blog  
-  The files associated with the public blog website are contained in the `blog` directory. This contains the Jupyter notebook file used for the blog labeled `Blog.ipynb` as well as a separate `images` directory which contains all images that were used in the blog. The blog contains everything about the project that was produced, such as introduction, motivation, code, findings, project architecture, and references. The website for the blog is listed below.  
+  The files associated with the public blog website are contained in the `blog` directory. This contains the Jupyter notebook file used for the blog labeled `Blog.ipynb` as well as a separate `images` directory which contains all images that were used in the blog. The blog contains everything about the project that was produced, such as introduction, motivation, code, findings, project architecture, and references. The website for the blog is listed below. Make sure to use this link to actually view the blog. The `blog` directory in this repository contains the html file used to produce this link, but when viewing the html file in the directory when on GitHub, the file is not directly readable.  
   
 https://final-project-blog.s3.amazonaws.com/QTM350_BLOGFIN.html
